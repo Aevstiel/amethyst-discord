@@ -1,17 +1,15 @@
 /**
- * @name midnight
- * @description a dark, customizable discord theme.
- * @author refact0r
- * @version 2.1.1
- * @invite nz87hXyvcy
- * @website https://github.com/refact0r/midnight-discord
- * @source https://github.com/refact0r/midnight-discord/blob/master/themes/midnight.theme.css
- * @authorId 508863359777505290
- * @authorLink https://www.refact0r.dev
+ * @name Amethyst
+ * @description  A clean Discord theme based on the Catppuccin Mocha colour scheme.
+ * @author Aevstiel
+ * @version 1.0
+ * @website https://github.com/Aevstiel/amethyst-discord
+ * @source https://github.com/Aevstiel/amethyst-discord/blob/master/themes/midnight.theme.css
+ * @authorId 836238843891417140
 */
 
 /* import theme modules */
-@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+@import url('https://github.com/Aevstiel/amethyst-discord/build/amethyst.css');
 
 body {
     /* font options */
@@ -78,17 +76,17 @@ body {
 
     /* text colors */
     --text-0: var(--bg-4); /* text on colored elements */
-    --text-1: hsl(220, 45%, 95%); /* other normally white text */
-    --text-2: hsl(220, 25%, 70%); /* headings and important text */
-    --text-3: hsl(220, 20%, 60%); /* normal text */
-    --text-4: hsl(220, 15%, 40%); /* icon buttons and channels */
-    --text-5: hsl(220, 15%, 25%); /* muted channels/chats and timestamps */
+    --text-1: #bac2de; /* other normally white text */
+    --text-2: #cdd6f4; /* headings and important text */
+    --text-3: #bac2de; /* normal text */
+    --text-4: #a6adc8; /* icon buttons and channels */
+    --text-5: #f5e0dc; /* muted channels/chats and timestamps */
 
     /* background and dark colors */
-    --bg-1: hsla(220, 15%, 20%, 1); /* dark buttons when clicked */
+    --bg-1: #1e1e2e; /* dark buttons when clicked */
     --bg-2: hsla(220, 15%, 16%, 1); /* dark buttons */
-    --bg-3: hsla(220, 15%, 13%, 1); /* spacing, secondary elements */
-    --bg-4: hsla(220, 15%, 10%, 1); /* main background color */
+    --bg-3: #1e1e2e; /* spacing, secondary elements */
+    --bg-4: #181825; /* main background color */
     --hover: hsla(221, 19%, 40%, 0.1); /* channels and buttons when hovered */
     --active: hsla(220, 19%, 40%, 0.2); /* channels and buttons when clicked or selected */
     --active-2: hsla(220, 19%, 40%, 0.3); /* extra state for transparent buttons */
@@ -120,33 +118,33 @@ body {
     --button-border: hsl(220, 0%, 100%, 0.1); /* neutral border color of buttons */
 
     /* base colors */
-    --red-1: oklch(75% 0.12 0);
-    --red-2: oklch(70% 0.12 0);
-    --red-3: oklch(65% 0.12 0);
-    --red-4: oklch(60% 0.12 0);
-    --red-5: oklch(55% 0.12 0);
+    --red-1: rgb(243, 139, 168);
+    --red-2: rgba(243, 139, 168, 0.9);
+    --red-3: rgba(243, 139, 168, 0.8);
+    --red-4: rgba(243, 139, 168, 0.7);
+    --red-5: rgba(243, 139, 168, 0.6);
 
-    --green-1: oklch(75% 0.11 170);
-    --green-2: oklch(70% 0.11 170);
-    --green-3: oklch(65% 0.11 170);
-    --green-4: oklch(60% 0.11 170);
-    --green-5: oklch(55% 0.11 160);
+    --green-1: rgb(148, 226, 213);
+    --green-2: rgba(148, 226, 213, 0.9);
+    --green-3: rgba(148, 226, 213, 0.8);
+    --green-4: rgba(148, 226, 213, 0.7);
+    --green-5: rgba(148, 226, 213, 0.6);
 
-    --blue-1: oklch(75% 0.1 215);
-    --blue-2: oklch(70% 0.1 215);
-    --blue-3: oklch(65% 0.1 215);
-    --blue-4: oklch(60% 0.1 215);
-    --blue-5: oklch(55% 0.1 215);
+    --blue-1: rgb(203, 166, 247);
+    --blue-2: rgba(203, 166, 247, 0.9);
+    --blue-3: rgba(203, 166, 247, 0.8);
+    --blue-4: rgba(203, 166, 247, 0.7);
+    --blue-5: rgba(203, 166, 247, 0.6);
 
-    --yellow-1: oklch(80% 0.11 90);
-    --yellow-2: oklch(75% 0.11 90);
-    --yellow-3: oklch(70% 0.11 90);
-    --yellow-4: oklch(65% 0.11 90);
-    --yellow-5: oklch(60% 0.11 90);
+    --yellow-1: rgb(249, 226, 175);
+    --yellow-2: rgba(249, 226, 175, 0.9);
+    --yellow-3: rgba(249, 226, 175, 0.8);
+    --yellow-4: rgba(249, 226, 175, 0.7);
+    --yellow-5: rgba(249, 226, 175, 0.6);
 
-    --purple-1: oklch(75% 0.11 310);
-    --purple-2: oklch(70% 0.11 310);
-    --purple-3: oklch(65% 0.11 310);
-    --purple-4: oklch(60% 0.11 310);
-    --purple-5: oklch(55% 0.11 310);
+    --purple-1: rgb(245, 194, 231);
+    --purple-2: rgba(245, 194, 231, 0.9);
+    --purple-3: rgba(245, 194, 231, 0.8);
+    --purple-4: rgba(245, 194, 231, 0.7);
+    --purple-5: rgba(245, 194, 231, 0.6);
 }

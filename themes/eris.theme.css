@@ -3,13 +3,13 @@
  * @description  A clean Discord theme based on the Catppuccin Mocha colour scheme.
  * @author Aevstiel
  * @version 1.0
- * @website https://github.com/Aevstiel/amethyste-discord
- * @source https://github.com/Aevstiel/amethyste-discord/blob/master/themes/amethyste.theme.css
+ * @website https://github.com/Aevstiel/eris
+ * @source https://github.com/Aevstiel/eris/blob/master/themes/eris.theme.css
  * @authorId 836238843891417140
 */
 
 /* import theme modules */
-@import url('https://aevstiel.github.io/amethyst-discord/build/amethyste.css');
+@import url('https://aevstiel.github.io/amethyst-discord/build/eris.css');
 
 body {
     /* font options */

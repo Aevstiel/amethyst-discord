@@ -1,16 +1,16 @@
-<img width=800 src="https://github.com/aevstiel/amethyst-discord/raw/master/assets/preview.png">
+<img width=800 src="https://github.com/aevstiel/eris/raw/master/assets/preview.png">
 
-# Amethyst
+# Eris
 
 A clean Discord theme based on the Catppuccin Mocha Mauve colour scheme.
-<img width=800 src="https://github.com/aevstiel/amethyst-discord/raw/master/assets/screenshot1.png">
+<img width=800 src="https://github.com/aevstiel/eris/raw/master/assets/screenshot1.png">
 
 
 ## Install
 
 ### Vencord/Betterdiscord (or any client that supports theme files)
 
-1. Download the theme file, [`amethyst.theme.css`](https://github.com/aevstiel/amethyst-discord/blob/master/themes/midnight.theme.css). (there should be a download button at the top right of the page)
+1. Download the theme file, [`eris.theme.css`](https://github.com/aevstiel/eris/blob/master/themes/eris.theme.css). (there should be a download button at the top right of the page)
 2. Drag the file into your theme folder. (there should be a button to open the theme folder in theme settings)
 3. (Optional) Customize the theme by editing the options in `amethyst.theme.css`.
 

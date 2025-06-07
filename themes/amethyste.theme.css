@@ -1,15 +1,15 @@
 /**
- * @name Amethyst
+ * @name Amethyste
  * @description  A clean Discord theme based on the Catppuccin Mocha colour scheme.
  * @author Aevstiel
  * @version 1.0
- * @website https://github.com/Aevstiel/amethyst-discord
- * @source https://github.com/Aevstiel/amethyst-discord/blob/master/themes/amethyst.theme.css
+ * @website https://github.com/Aevstiel/amethyste-discord
+ * @source https://github.com/Aevstiel/amethyste-discord/blob/master/themes/amethyste.theme.css
  * @authorId 836238843891417140
 */
 
 /* import theme modules */
-@import url('https://aevstiel.github.io/amethyst-discord/build/amethyst.css');
+@import url('https://aevstiel.github.io/amethyst-discord/build/amethyste.css');
 
 body {
     /* font options */

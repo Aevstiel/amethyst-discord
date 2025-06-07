@@ -16,7 +16,7 @@ A clean Discord theme based on the Catppuccin Mocha Mauve colour scheme.
 
 ### Install Through link
 
-Add `https://aevstiel.github.io/amethyst-discord/build/amethyst.css` to your theme import links. You will need to copy the theme variables to your quickcss in order to customize the theme.
+Add `https://aevstiel.github.io/eris/build/eris.css` to your theme import links. You will need to copy the theme variables to your quickcss in order to customize the theme.
 
 4. run `npm run dev`.
 5. make changes to any file in `/src` or the main theme file. the local theme files you listed will automatically be updated, along with the build file in `/build`.
